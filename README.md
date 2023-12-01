@@ -12,9 +12,8 @@ A new Flutter project.
 <img src="https://github.com/vikan123/bhaktamer_app/assets/121440762/249e0cd1-4dd3-4ac9-83ba-a053bd33182d" width = "400" height = "800">
 
 <video width="400" height="800" autoplay muted>
-  <source src="https://github.com/vikan123/bhaktamer_app/assets/121440762/2871444a-d142-4002-aac8-9f8577d3f8b8
-" type="video/mp4"></video>
-https://github.com/vikan123/bhaktamer_app/assets/121440762/2871444a-d142-4002-aac8-9f8577d3f8b8
+  <source src="https://github.com/vikan123/bhaktamer_app/assets/121440762/2871444a-d142-4002-aac8-9f8577d3f8b8" type="video/mp4"></video>
+
 
 
 
